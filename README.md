@@ -7,4 +7,4 @@ I assume you are using a MOTU DC coupled soundcard, though these work with norma
 for info write to: albynovello - at - gmail - dot - com.
 Donations at the same address using paypal.
 
-Alberto Novello 2019 
+Alberto Novello, www.jestern.com 2019 

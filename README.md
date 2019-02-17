@@ -8,6 +8,6 @@ for info /  bug report write to: albynovello - at - gmail - dot - com.
 Donations at the same address using paypal.
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](jestern77@yahoo.it)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](jestern77@yahoo.it)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/jestern77)
 
 Alberto Novello, www.jestern.com 2019 

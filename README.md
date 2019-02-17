@@ -2,7 +2,7 @@
 MaxMSP Patches created to prototype my live Laser Drawing show and workshops from 2016 (more info @ https://vimeo.com/jestern, or snippets here: https://www.instagram.com/_jestern_/)
 
 1) get a laser (chep ones from Laserworld) with an ILDA plug
-2) make an ILDA to 5 minijacks custom cable to output X, Y, R, G, B signals (refer to https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjLsPPx1cPgAhVDr6QKHSWKA1kQjRx6BAgBEAU&url=https%3A%2F%2Fwww.photonlexicon.com%2Fforums%2Fshowthread.php%2F25608-Modulation-issues-with-RGB-Analog-projector%2Fpage2&psig=AOvVaw0pJ5I5lTLs6xGDNNSeTwDk&ust=1550523928684233)
+2) make an ILDA to 5 minijacks custom cable to output X, Y, R, G, B signals (refer to https://www.google.com/search?q=ILDA+PLug&source=lnms&tbm=isch&sa=X&ved=0ahUKEwip49Lv1cPgAhXDwKQKHbuHBbMQ_AUIDigB&biw=1596&bih=753#imgrc=fDwq9gUM1JSGUM:)
 
 3) use a multichannel soundcard (MOTU to be DC-coupled or another soundcard if you don't care) 
 4) use my software to create shapes

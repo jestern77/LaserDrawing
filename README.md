@@ -5,8 +5,6 @@ I will update slowly depending on time. They can be used to control Lasers or Ve
 I assume you are using a MOTU DC coupled soundcard, though these work with normal multichannel soundcards too (with DC removal). 
 
 for info /  bug report write to: albynovello - at - gmail - dot - com.
-Donations at the same address using paypal.
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](jestern77@yahoo.it)
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/jestern)
 
